@@ -1,0 +1,8 @@
+WINDOW_TITLE = "Codificaciones"
+WINDOW = (800, 600)
+
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+COLOR1 = (200, 255, 200)
+COLOR2 = (255, 200, 200)
+

@@ -1,0 +1,6 @@
+Monopantalla, dividida en partes. debe mostrar la letra seleccionada, su representación en ascii, el valor binario de esta representación, los unos y ceros codficados y la codificación modulada.
+
+Con el teclado se cambia de letra.
+Con click en alguna are se cambia de letra, codificación, modulación, etc.. Click derecho avanza, izquierdo retrocede.
+
+
